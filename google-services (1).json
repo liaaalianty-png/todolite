@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040428605494",
+    "project_id": "todolite-93f0c",
+    "storage_bucket": "todolite-93f0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040428605494:android:518ef75168ede764bf7897",
+        "android_client_info": {
+          "package_name": "com.example.todolite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnkTZngkALUNZTh-LagjgN8gJw0sAiIj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
